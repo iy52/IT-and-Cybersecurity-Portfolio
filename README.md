@@ -27,11 +27,10 @@ Demonstrated file-level security in Linux with:
 
 ---
 
-## Background
+## Resume
 
-🎓 Master’s in Cybersecurity (In Progress)  
-💼 Technical Solutions Analyst at a SaaS company  
-🧰 Tools: VirtualBox, Windows Server, Kali Linux, Wireshark, Python, PowerShell
+[View my resume](./Resume.md)
+
 
 ---
 
