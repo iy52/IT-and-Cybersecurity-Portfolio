@@ -37,4 +37,4 @@ Demonstrated file-level security in Linux with:
 
 ## 🔗 Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/isaac-yoon52/))
+- [LinkedIn](https://www.linkedin.com/in/isaac-yoon52/)
