@@ -1,29 +1,19 @@
 # Cybersecurity & IT Portfolio – Isaac Yoon
 
-Welcome! This portfolio showcases my hands-on labs and projects in IT and cybersecurity, built to demonstrate my practical skills with enterprise tools and environments. These labs reflect real-world tasks performed in entry-level IT, system admin, and security analyst roles.
+Welcome to my cybersecurity and IT portfolio. This space highlights hands-on labs and projects that demonstrate my practical experience with enterprise tools, operating systems, and security concepts. Each project reflects real-world tasks commonly performed in entry-level IT, system administration, and security analyst roles.
 
 ---
 
 ## Featured Projects
 
 ### [Active Directory Lab](./Active-Directory-Lab)
-Set up a Windows Server 2019 domain controller from scratch using VirtualBox. 
-- Created users and OUs
-- Configured DNS
-- Deployed GPOs to restrict Control Panel and Registry access
-- Joined a Windows 10 client to the domain
+Built a Windows Server 2019 domain controller from scratch in a virtual lab environment:
+- Created user accounts and organizational units (OUs)
+- Configured DNS for internal name resolution
+- Deployed Group Policy Objects (GPOs) to restrict Control Panel and Registry access
+- Joined a Windows 10 client machine to the domain
 
-### [SIEM Lab](./SIEM-Lab)
-Deployed a Security Information and Event Management system using [Wazuh/Splunk/etc.].
-- Installed agents
-- Monitored event logs
-- Created alerts and dashboards
-
-### [Linux Permissions Lab](./Linux-Permissions-Lab)
-Demonstrated file-level security in Linux with:
-- chmod, chown, and chgrp
-- SUID, SGID, and sticky bit
-- Real-world permission scenarios
+### More projects coming soon
 
 ---
 
@@ -31,9 +21,9 @@ Demonstrated file-level security in Linux with:
 
 [View my resume](./Resume.md)
 
-
 ---
 
-## 🔗 Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/isaac-yoon52/)
+
