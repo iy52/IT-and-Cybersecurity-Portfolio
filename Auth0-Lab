@@ -1,0 +1,62 @@
+# Auth0 Identity Lab
+
+This lab demonstrates how to use the Auth0 web interface to simulate identity and access management tasks commonly performed by IT Helpdesk Analysts or System Administrators. It walks through the process of creating an application, setting up users and roles, enabling MFA, and testing the login experience.
+
+---
+
+## Lab Setup Overview
+
+**Platform:** Auth0 Developer Tenant  
+**Interface:** Auth0 Admin Console (UI only)  
+**MFA Method:** One-Time Password (TOTP) via Google Authenticator
+
+---
+
+## Step-by-Step Walkthrough
+
+### 1. Create a New Application
+
+Created a native application named `Isaac Test Application` within the Auth0 dashboard to simulate internal SSO functionality.
+
+
+
+### 2. Add Roles
+
+Added three roles to reflect common organizational user types:
+
+- Admin  
+- Employee  
+- Intern
+
+### 3. Create Users
+
+Created three users and mapped them to roles:
+
+- `jane.admin@isy-labs.com` → Admin  
+- `mark.analyst@isy-labs.com` → Employee  
+- `chris.intern@isy-labs.com` → Intern
+
+### 4. Assign Roles to Users
+
+Opened each user profile and assigned the appropriate role under the Roles tab.
+
+### 5. Enable MFA
+
+Enabled One-Time Password authentication under **Security > Multi-factor Auth**. This required users to enroll in an authenticator app like Google Authenticator during login.
+
+### 6. Test the Login Flow
+
+Tested the login as `jane.admin@isy-labs.com`. Successfully signed in, entered an OTP, and was redirected to the configured callback URL. A 404 was expected since the app is not hosted, but the presence of an Auth0-issued code in the URL confirmed success.
+
+---
+
+## Skills Demonstrated
+
+- User provisioning through identity provider interface  
+- Role-based access control configuration  
+- MFA policy enforcement  
+- Realistic UI navigation and workflow understanding
+
+---
+
+This lab was intentionally lightweight but realistic. It demonstrates clear familiarity with the Auth0 interface and core IAM concepts without requiring backend development or scripting.
