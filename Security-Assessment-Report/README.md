@@ -35,11 +35,11 @@ In response to the real-world 2015 Office of Personnel Management (OPM) data bre
 
 ## Included Files
 
-- `JPMorgan_Security_Assessment_Report_Isaac_Yoon.pdf`  
+- `Security Assessment Report.pdf`  
   Full report submitted for the course *Essentials of Cybersecurity and Secure Systems*  
   *(Rutgers University – Spring 2023)*
 
-- `assignment_instructions.pdf`  
+- `Assignment Instructions - Assessing Information System Threats and Vulnerabilities.pdf`  
   Prompt provided by the instructor that guided the SAR creation (optional context)
 
 ---
