@@ -20,6 +20,13 @@ Simulated how an IT administrator uses Auth0 to manage secure access to internal
 - Enabled One-time Password (OTP) Multi-Factor Authentication (MFA)
 - Tested login flow with MFA prompt and successful redirect to callback URL
 
+### [Security Assessment Report Project](./Security-Assessment-Report)
+Developed a formal Security Assessment Report (SAR) as a graduate school assignment simulating the role of an Information Assurance Management Officer (IAMO):
+- Assessed a fictional cybersecurity program for JPMorgan Chase & Co.
+- Identified insider and external threats, including SQL injection, DDoS, and outdated systems
+- Evaluated vulnerabilities like lack of data-at-rest encryption and backup strategies
+- Proposed layered mitigation techniques aligned with FISMA and NIST guidelines
+
 ### More projects coming soon
 
 ---
